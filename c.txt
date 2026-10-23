@@ -1,0 +1,3 @@
+this new content for my c file which i created using cat cmd and right now 
+i know how to use this cmd i'll make sure to master this cmd 
+so next time cannnot forget okey..this file can modified c
